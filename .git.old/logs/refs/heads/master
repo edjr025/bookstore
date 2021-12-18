@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 8f7eda8d2f471f0193816f7b8418a72bf70df3c6 edjr025 <edvaldojr025@gmail.com> 1639698016 -0300	commit (initial): initial commit
+8f7eda8d2f471f0193816f7b8418a72bf70df3c6 e4290bf7ba3bd8345c056897c822568a3c6d9efc edjr025 <edvaldojr025@gmail.com> 1639699140 -0300	commit: angular material instalado no projeto
+e4290bf7ba3bd8345c056897c822568a3c6d9efc e9c8dc8178e525ca684e30b1e1c78181ad433686 edjr025 <edvaldojr025@gmail.com> 1639700694 -0300	commit: criando o header e o footer da pagina
+e9c8dc8178e525ca684e30b1e1c78181ad433686 54dcc21c28bb44501b21e84e7fc0a2316ad1d07d edjr025 <edvaldojr025@gmail.com> 1639701648 -0300	commit: Adcionado o NAV
+54dcc21c28bb44501b21e84e7fc0a2316ad1d07d 023f0f94b32e62030d6f2b632d5c3b9679ef63fd edjr025 <edvaldojr025@gmail.com> 1639703422 -0300	commit: Incluindo a view home
+023f0f94b32e62030d6f2b632d5c3b9679ef63fd 679debf5a2b64d8e2f481f5802165f6e68f5dc6d edjr025 <edvaldojr025@gmail.com> 1639748766 -0300	commit: categoria-read foi implementado
+679debf5a2b64d8e2f481f5802165f6e68f5dc6d 753de9072380d0bd24b273e2d544fa6a7919a53d edjr025 <edvaldojr025@gmail.com> 1639748901 -0300	commit: corrigindo o ID do categoria-read
+753de9072380d0bd24b273e2d544fa6a7919a53d f763e773b2cdc2ea815cb3182d3776d634d5400d edjr025 <edvaldojr025@gmail.com> 1639751418 -0300	commit: ajuste no componete READ
+f763e773b2cdc2ea815cb3182d3776d634d5400d 4b159398558da7f097cb166fe8cdd4e3ea757c87 edjr025 <edvaldojr025@gmail.com> 1639763030 -0300	commit: Metodo CREATE implementado para a Categoria
+4b159398558da7f097cb166fe8cdd4e3ea757c87 f6a797e7ce675121e2c593acad9a8daabc3e694c edjr025 <edvaldojr025@gmail.com> 1639763289 -0300	commit: finalizando o metodo CREATE
+f6a797e7ce675121e2c593acad9a8daabc3e694c 7a266fc8bdc64791f343b2d6f4b04c66963fb7f3 edjr025 <edvaldojr025@gmail.com> 1639773978 -0300	commit: criando o componete de DELETE
+7a266fc8bdc64791f343b2d6f4b04c66963fb7f3 ddff1cf6d31a934b58d8f585c679dbeb28389ce5 edjr025 <edvaldojr025@gmail.com> 1639781571 -0300	commit: categoria Delete implementada
+ddff1cf6d31a934b58d8f585c679dbeb28389ce5 36fb6cb5bf60aedb8e7e2cc00fce0f5c117a9605 edjr025 <edvaldojr025@gmail.com> 1639834952 -0300	commit: update para categoria foi implementado
+36fb6cb5bf60aedb8e7e2cc00fce0f5c117a9605 305d2023ddf831d7850b44347233d83536c907c8 edjr025 <edvaldojr025@gmail.com> 1639837533 -0300	commit: leitura de todos os livros pela categoria foi implementado
+305d2023ddf831d7850b44347233d83536c907c8 c8f73e7ea9250a47079c33a25bed30522a30e2f5 edjr025 <edvaldojr025@gmail.com> 1639857024 -0300	commit: UPDATE implementado para Livro
+c8f73e7ea9250a47079c33a25bed30522a30e2f5 10b64e6f173473625bc3fac6fa2aa4e6b4c7cd6a edjr025 <edvaldojr025@gmail.com> 1639858625 -0300	commit: delete para Livro implementado
+10b64e6f173473625bc3fac6fa2aa4e6b4c7cd6a dd076d1c1fcf2b34bc19b99d17f9ebf923aa7010 edjr025 <edvaldojr025@gmail.com> 1639860206 -0300	commit: READ para livro implementado
